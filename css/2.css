@@ -1,0 +1,296 @@
+body {
+	background:url("../img/gh.jpg");
+    
+}
+.header {
+	margin-left: 10vh;
+	margin-right: 10vh;
+	}
+.logo {
+    font-style: italic;
+    font-size: 100px;
+    margin-top: 3vh;
+    color: #EFEBDC;
+
+}
+.name {
+	font-style: inherit;
+	font-size: 25px;
+	margin-top: -3vh;
+	margin-bottom: 1vh;
+	margin-left: 10vh;
+	color: #9C9C9C;
+}
+.link {
+	background: url("../img/vk.jpg") no-repeat center center  / contain;
+	width: 5%;
+	height:5%;
+    margin-top: -6vh;
+    position: absolute;
+     margin-left: 72%;
+}
+.document {
+	background: url("../img/fiel.jpg") no-repeat center center  / contain;
+	width: 5%;
+	height:5%;
+    margin-top: -6vh;
+    position: absolute;
+    margin-left: 76%;
+}
+.heart {
+	color: #7E292C;
+	margin-top: -15vh;
+	margin-left: -4vh;
+}
+.main {
+	display: block;
+	height: 5vh;
+	width: 100%
+}
+.choise {
+	height: 10vh;
+	width:80%;
+    margin-left: 10vh;
+	margin-right: 10vh;
+	background: #2E3032;
+}
+.main {
+	background: url("../img/Succub.jpg") no-repeat center center  / contain;
+	position: absolute;
+	width: 9%;
+	height: 9%;
+	margin-left: 77%;
+	margin-top: 1vh;
+}
+.info {
+	height: 70vh;
+	width: 80%;
+	margin-top: 2vh;
+	margin-left: 10vh;
+	margin-right: 10vh;
+	background: #2E3032;
+
+}
+.left_tigle {
+	height: 70vh;
+	width: 40%;
+	text-align: center;
+	font-style: italic;
+	font-size: 30px;
+	color: #9C9C9C;
+}
+.intro{
+	color: #EFEBDC;
+	font-size: 40px;
+}
+.Onas {
+	color: #EFEBDC;
+	font-size: 40px;
+}
+.menu{
+	display: flex;
+	margin-top: 2vh;
+}
+.menu a {
+	font-size: 35px;
+	color: #EFEBDC;
+	text-decoration: none;
+	border: 1px solid #9C9C9C;
+	background: linear-gradient(to bottom, #000000, #434343);
+	height: 8vh;
+	width: 20vh;
+	font-size: 40px;
+	text-align: center;
+	padding-top:2vh;
+}
+/* card1 */
+.right_tigle {
+	display: block;
+	height: 70vh;
+	width: 60%;
+	margin-top: -70vh;
+	margin-left: 40%;
+}
+.m1 {
+ background: url("../img/22.png") no-repeat center;
+ height: 70%;
+ width: 50%;
+ position: absolute;
+ margin-left: -4vh;
+ margin-top: -5vh;
+}
+.card1 {
+	opacity: 0;
+
+/* Card2 */
+}
+.left_tigle1 {
+
+	margin-top: -70vh;
+	height: 70vh;
+	width: 40%;
+	margin-left: 10vh;
+}
+.me1 {
+	font-style: italic;
+	font-size: 50px;
+	color: #EFEBDC;
+}
+.resum {
+	font-style: italic;
+	font-size: 30px;
+	color: #9C9C9C;
+}
+.right_tigle2 {
+	display: block;
+	height: 70vh;
+	width: 55%;
+	margin-top: -70vh;
+	margin-left: 30%;
+}
+.m12 {
+	background: url("../img/v.png") no-repeat center;
+	height: 80%;
+    width: 50%;
+    position: absolute;
+    margin-left: -4vh;
+    margin-top: -5vh;
+    z-index: 3;
+}
+.m12:hover {
+	background: url("../img/vkk.png") no-repeat center;
+	 height: 80%;
+     width: 50%;
+         margin-top: -5vh;
+}
+.card2 {
+	opacity: 0;
+}
+/* Card3*/
+.me2 {
+	font-style: italic;
+	font-size: 50px;
+	color: #EFEBDC;
+}
+.resum1 {
+	font-style: italic;
+	font-size: 30px;
+	color: #9C9C9C;
+}
+.right_tigle3 {
+	display: block;
+	height: 70vh;
+	width: 55%;
+	margin-top: -70vh;
+	margin-left: 30%;
+}
+.left_tigle3 {
+
+	margin-top: -70vh;
+	height: 70vh;
+	width: 40%;
+	margin-left: 10vh;
+	}
+ .m123{
+	background: url("../img/c.png") no-repeat center;
+	height: 80%;
+    width: 50%;
+    position: absolute;
+    margin-top: -5vh;
+    z-index: 2;
+}
+.m123:hover {
+	background: url("../img/uc.png") no-repeat center;
+	 height: 80%;
+     width: 50%;
+         margin-top: -5vh;
+         }
+.card3 {
+	opacity: 0;
+
+}
+/* Card4*/
+.me4 {
+	font-style: italic;
+	font-size: 50px;
+	color: #EFEBDC;
+}
+.resum2 {
+	font-style: italic;
+	font-size: 30px;
+	color: #9C9C9C;
+}
+.right_tigle4 {
+	display: block;
+	height: 70vh;
+	width: 55%;
+	margin-top: -70vh;
+	margin-left: 30%;
+}
+.left_tigle4 {
+
+	margin-top: -70vh;
+	height: 70vh;
+	width: 40%;
+	margin-left: 10vh;
+	}
+ .m1234{
+	background: url("../img/PngItem_5477034.png") no-repeat center;
+	height: 100%;
+    width: 50%;
+    position: absolute;
+    z-index: 1;
+}
+.m1234:hover {
+	background: url("../img/Ema.png") no-repeat center;
+	 height: 80%;
+     width: 50%;
+         margin-top: -5vh;
+}
+.card4 {
+	opacity:0;
+
+}
+/* Card5*/
+.me5{
+	font-style: italic;
+	font-size: 50px;
+	color: #EFEBDC;
+}
+.resum3 {
+	font-style: italic;
+	font-size: 30px;
+	color: #9C9C9C;
+}
+.right_tigle5 {
+	display: block;
+	height: 70vh;
+	width: 55%;
+	margin-top: -70vh;
+	margin-left: 30%;
+}
+.left_tigle5 {
+
+	margin-top: -70vh;
+	height: 70vh;
+	width: 40%;
+	margin-left: 10vh;
+	}
+ .m12345{
+	background: url("../img/02.png") no-repeat center;
+    position: absolute;
+    margin-top: -5vh;
+    height: 80%;
+    width: 50%
+}
+
+.m12345:hover {
+	background: url("../img/02pg.png") no-repeat center;
+	 height: 80%;
+     width: 50%;
+
+}
+
+.card5 {
+	opacity:0;
+}
